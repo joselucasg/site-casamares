@@ -146,11 +146,12 @@ HERO
 .hero {
     position: relative;
     min-height: 650px;
+
     background:
         linear-gradient(90deg,
             rgba(19, 20, 18, 0.86),
             rgba(19, 20, 18, 0.2)),
-        url('https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAz_amzmy0lt8TiSbYo2ZcZm3ZCmxSPwzr2g4OWdyHx1okvvLT-evhM2LA-UILx9WwvWgFIp-h2oGpgYX2p8hSYem5t7W2NIqT_uNqBZhSbMjxGqNpHFIgXW0d_OIg4QjSfuzb5kzfAVb_=s680-w680-h510-rw') center / cover;
+        url("assets/imagens/institucional/fachada_casamares.webp") center / cover no-repeat;
 }
 
 .hero-content {
@@ -289,7 +290,7 @@ SOBRE / INSTITUCIONAL
 .about-photo {
     height: 520px;
     background:
-        url('https://lh3.googleusercontent.com/gps-cs-s/AHRPTWku-i_EZYqjK-UxMyPVtbIacCGkdbpqoTV5hdOT4nxrsBV7ft0MveUpCUZ_VG3htKQOpoEaAqaeeOlr0Ne12LsWEkWIKQZd7MjeCO7CY40wsABLS_3am1XLvxYqY-DTNKxBhIz2yQUfXFTJ=s680-w680-h510-rw') center / cover;
+        url("assets/imagens/institucional/logo_interior_casamares.webp") center / cover no-repeat;
 }
 
 .about-copy p {
